@@ -6,18 +6,22 @@
 **Institution:** VIT Bhopal University
 
 ## Project Overview
-This repository contains my Digital Literacy Portfolio, created as my first assignment as a Student Digital Ambassador. The goal of this project is to help my peers navigate the digital world—from creating professional online profiles to communicating safely and responsibly online.
+Welcome to my Digital Literacy Portfolio! I put this repository together for my first assignment as a Student Digital Ambassador. The main idea here is to help my batchmates figure out the digital side of college life—whether that's setting up a solid coding profile for the future or just learning how to communicate safely and responsibly online.
 
 ## Module Summaries
 
 * **Module 1: Digital Literacy Awareness Infographic**
- Created a visual infographic using Canva to promote digital awareness, focusing on defining digital literacy, highlighting useful platforms for CSE students, and outlining safe internet practices.
+  I designed a quick infographic on Canva to break down what digital literacy actually means. I mainly focused on safe internet habits and highlighted some must-have platforms for us CSE students.
+
 * **Module 2: Student Digital Portfolio**
-  Set up a foundational professional digital presence by creating and updating profiles on GitHub, LinkedIn, and Kaggle to prepare for future tech internships and collaborative projects.
+  This part is all about getting my professional profiles off the ground. I set up and updated my GitHub, LinkedIn, and Kaggle accounts so I have a solid foundation ready for future tech internships and collaborative projects.
+
 * **Module 3: Explore Coding & Collaboration Platforms**
-  Completed a beginner Python coding challenge on HackerRank and built a Digital Literacy Awareness Quiz using Google Forms to practice data collection.
-  * **Link to Awareness Quiz:** (https://docs.google.com/forms/d/e/1FAIpQLSeGyjXJnbVhKrwFXeXYm1zDlV2BDjvkf0MkiWNh9fqtTsgiZQ/viewform)
+  I knocked out a beginner Python coding challenge on HackerRank to get comfortable with the platform. I also put together a "Digital Literacy Awareness Quiz" using Google Forms to get some hands-on practice with data collection.
+  * **Link to my Awareness Quiz:** [Take the Quiz Here](https://docs.google.com/forms/d/e/1FAIpQLSeGyjXJnbVhKrwFXeXYm1zDlV2BDjvkf0MkiWNh9fqtTsgiZQ/viewform)
+
 * **Module 4: Draft a Professional Email & Etiquette Guide**
-  Drafted two professional emails (requesting a deadline extension and inquiring about an internship) and created a 10-point Do's and Don'ts checklist for responsible college social media use.
+  For this module, I drafted two realistic professional emails (one asking a professor for an assignment extension, and another inquiring about a summer internship). I also wrote up a quick 10-point "Do's and Don'ts" checklist for how college students should handle social media.
+
 * **Module 5: Cybercrime Awareness Case Study & Prevention**
-  Developed a fictional case study on UPI/Online Payment fraud targeting college students (the "Hostel Fee Refund" scam) and compiled an 8-point cybercrime prevention checklist tailored for students in India.
+  To wrap things up, I wrote a realistic case study about the "Hostel Fee Refund" UPI scam that targets a lot of students in India. To go with it, I made an 8-point cybercrime prevention checklist to help everyone stay secure online.
