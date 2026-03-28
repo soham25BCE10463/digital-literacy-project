@@ -12,7 +12,7 @@
 
 ## Project Overview:-
 
-Welcome to my Digital Literacy Portfolio, I have put this repository together for my first assignment as a Student Digital Ambassador. The main idea here was to help my batchmates figure out the digital side of college life whether that's setting up a online profile for the future or just learning how to communicate responsibly online.
+Welcome to my Digital Literacy Portfolio, I created this repository as part of my first task as a Student Digital Ambassador. The main idea here was to help my batchmates figure out the digital side of college life whether that's setting up a online profile for the future or just learning how to communicate responsibly online.
 
 
 
@@ -28,7 +28,7 @@ Welcome to my Digital Literacy Portfolio, I have put this repository together fo
 
 * **Module 2: Student Digital Portfolio**
 
- Module 2  is all about getting my professional profiles created. I sat up and updated my GitHub, LinkedIn , and Kaggle accounts so I have a  foundation ready for future  internships and  projects.
+ For Module 2, I focused on building a professional online presence. I sat up and updated my GitHub, LinkedIn , and Kaggle accounts so I have a  foundation ready for future  internships and  projects.
 
 
 
@@ -45,7 +45,6 @@ I have also put together a Digital Literacy Awareness Quiz using Google Forms to
 * **Module 4: Draft a Professional Email & Etiquette Guide**
 
   For this module, I have drafted two realistic professional emails (one which is asking a professor for an  assignment extension, and another is inquiring about a summer internship). I also have written up a 10 point "Do's and Don'ts" checklists for how college students should handle social media.
-
 
 
 * **Module 5: Cybercrime Awareness Case Study & Prevention**
